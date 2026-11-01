@@ -41,3 +41,22 @@ Ví dụ 3: Nhập N = 30
 Ví dụ: Nhập ngày 01/03/2026
     => Ngày trước đó là: 28/02/2026
 ```
+
+## Ngày 28/10/2026
+
+#### Viết chương trình tìm chữ số lớn nhất của số nguyên N được nhập từ bàn phím.
+
+```
+Ví dụ: N = 1743       => Chữ số lớn nhất là 7
+```
+
+#### 2: Viết chương trình tính N!, với N được nhập từ bàn phím.
+
+#### 3: Viết chương trình kiểm tra số N nhập vào có phải là số nguyên tố hay không. Biết rằng số nguyên tố là số chỉ chia hết cho 1 và chính nó.
+
+#### 4:  Viết chương trình kiểm tra số N nhập vào có phải là số nguyên tố hay không. Nếu không phải thì tìm số nguyên tố gần N nhất và bé hơn N.
+
+```
+Ví dụ: N = 18       => Không phải số nguyên tố.
+                    => Số nguyên tố gần nhất là 17
+```
