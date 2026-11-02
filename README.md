@@ -41,3 +41,15 @@ Ví dụ 3: Nhập N = 30
 Ví dụ: Nhập ngày 01/03/2026
     => Ngày trước đó là: 28/02/2026
 ```
+
+## Ngày 01/11/2026
+
+_Bài tập mảng 1 chiều_
+
+#### 1/ Viết chương trình tìm vị trí và giá trị của phần tử lớn nhất trong mảng.
+
+#### 2/ Viết chương trình tìm giá trị chẵn lớn nhất trong mảng.
+
+#### 3/ Viết chương trình tìm giá trị lớn thứ 2 trong mảng
+
+#### 4/ Viết chương trình tách mảng thành 2 mảng con, 1 mảng chỉ chứa số chẵn, 1 mảng chỉ chứa số lẻ.
